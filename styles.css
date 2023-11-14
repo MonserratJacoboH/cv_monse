@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(180, 245, 254); 
+}
+
+li{
+    font-size: medium;
+}
+
+a{
+    font-weight: bold;
+    color: rgb(79, 157, 252);
+}
+/* mis modificaciones*/
+
+.profile-description{
+    border: solid 4px black;
+
+}
+
+.skills{
+    
+}
